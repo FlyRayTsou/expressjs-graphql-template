@@ -1,13 +1,12 @@
-# expressjs-api-template
-I am building an API template using Express.js and TypeScript to streamline future development projects.
-You could clone this repository and develop new API as you want.
+# expressjs-graphQL-template
+This template is for my to practice the graphQL by using Express.js and TypeScript. I can quick to catch up the concept again by this repo.
 
 # How to start
 
 1. install packages: `% npm install`
 2. Start Server:
    - Not hot reloading: `% npm exec tsx ./src/app.ts`
-   - Have hot reloading: `% npx nodemon`
+   - Have hot reloading: `% npm exec nodemon`
 
 # How to check coding convension
 
