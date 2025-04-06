@@ -10,7 +10,7 @@ This template is for my to practice the graphQL by using Express.js and TypeScri
 
 # How to check coding convension
 
-`% npx eslint`
+`% npm exec eslint`
 
 # How to run unit test
 
