@@ -25,6 +25,7 @@ To implement GraphQL, there are three main components to focus on:
 - **File:** `src/resolvers/`
 
 ## Code Examples
+```
 // Schema Example
 `src/schema/order.ts`
 
@@ -33,6 +34,7 @@ orders: [Order]
 
 // Resolver example
 orders: () => orders
+```
 
 ## Notes
 - Schema files define **types**, not actual data.
