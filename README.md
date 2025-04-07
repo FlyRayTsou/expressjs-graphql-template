@@ -22,7 +22,7 @@ To implement GraphQL, there are three main components to focus on:
 - **Important Note:**  
   If a field is not defined in the schema, it will not appear in the GraphQL response—even if the resolver includes it.
 - **Format:** See code examples below.
-- **Typical Location:** `src/resolvers/`
+- **File:** `src/resolvers/`
 
 ## Code Examples
 // Schema Example
